@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851667988524",
+    "project_id": "kotlinfirebaseinstagram-e54cd",
+    "storage_bucket": "kotlinfirebaseinstagram-e54cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851667988524:android:d63e77cf741c3f87cf2189",
+        "android_client_info": {
+          "package_name": "com.example.instagramfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoajq0Jb3HWIsJouLcVk89cb0ycKyS0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
