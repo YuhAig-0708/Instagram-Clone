@@ -1,9 +1,8 @@
 this project used Firebase Storage, Firebase Authentication, Firebase Realtime Database
 For building and running the application you need:
--  Firebase : https://console.firebase.google.com/u/0/
 
 ## Requirements
-- [Project on Firebase](https://console.firebase.google.com/u/0/)
+- [Register and access project on Firebase](https://console.firebase.google.com/u/0/)
 - [Android SDK 34](https://developer.android.com/tools/releases/platforms)
 - [Picasso 2.8](https://square.github.io/picasso/)
 
